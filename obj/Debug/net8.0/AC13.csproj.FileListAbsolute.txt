@@ -1,0 +1,11 @@
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/bin/Debug/net8.0/AC13
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/bin/Debug/net8.0/AC13.dll
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/bin/Debug/net8.0/AC13.pdb
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/obj/Debug/net8.0/AC13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/obj/Debug/net8.0/AC13.AssemblyInfoInputs.cache
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/obj/Debug/net8.0/AC13.AssemblyInfo.cs
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/obj/Debug/net8.0/AC13.csproj.CoreCompileInputs.cache
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/obj/Debug/net8.0/AC13.dll
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/obj/Debug/net8.0/refint/AC13.dll
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/obj/Debug/net8.0/AC13.pdb
+/Users/marc/Documents/Clase/Programación/3r Trimestre/AC13/AC13/obj/Debug/net8.0/AC13.sourcelink.json
